@@ -1,7 +1,7 @@
 # Univesidad Central del Ecuador
 # Carrera de Petroleos
 # Materia: Facilidades de Producción
-# Integrantes: Juan Salazar, Jessica Villacis
+# Integrantes: Ana Paula Carrasco, Vanessa Chamorro, Juan Salazar
 
 # Aplicativo de concentraciones
 
