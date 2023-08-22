@@ -1,7 +1,7 @@
 # Univesidad Central del Ecuador
 # Carrera de Petroleos
 # Materia: Facilidades de Producción
-# Integrantes: Juan Salazar, Jessica Villacis
+# Integrantes: Ana Paula Carrasco, Vanessa Chamorro, Juan Salazar
 
 # Aplicativo de concentraciones
 
@@ -22,7 +22,7 @@ def mostrar_menu(opciones):
 
 def leer_opcion(opciones):
     while (a := input('Opción: ')) not in opciones:
-        print('Opción incorrecta, vuelva a intentarlo.')
+        print('')
     return a
 
 def ejecutar_opcion(opcion, opciones):
